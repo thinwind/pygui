@@ -1,0 +1,1 @@
+Excel down arrow pos: Point(x=2714, y=1604)
